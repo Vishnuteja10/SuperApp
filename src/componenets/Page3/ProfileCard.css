@@ -1,0 +1,41 @@
+
+.p3_outerBox{
+    width: 40vw;
+    height: 40vh;
+    background-color:#5746EA;
+    display: flex;
+    border-radius: 10px;
+}
+
+.profile{
+    transform: translateY(15px);
+    background-image: url('./profile.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 10px;
+    width: 10vw;
+    height: 30vh;
+    border-radius: 10px;
+    background-color: #5746EA;
+}
+
+.p3_leftBox{
+    margin-left: 20px;
+}
+
+.p3_name{
+
+}
+
+.p3_gmail{
+
+}
+
+.p3_userName{
+
+}
+
+button{
+    width: 9vw;
+    margin-left: 5px;
+}

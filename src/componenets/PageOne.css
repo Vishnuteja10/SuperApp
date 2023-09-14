@@ -1,0 +1,99 @@
+
+.P1_outerBox{
+  display: flex;
+}
+
+.P1_leftBox{
+width: 50%;
+height: 100vh;
+background-image: url('./page1.png');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.P1_rightBox{
+  width: 50%;
+  height: 100vh;
+  background-color: black;
+}
+
+.P1_text{
+    margin-top: 80%;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    color: white;
+}
+
+.P1_rightSideBox{
+    width: 35vw;
+    height: 85vh;
+    margin: 80px;
+    margin-top: 10px;
+    background-color: black
+}
+
+input{
+   
+}
+
+p{
+    color: white;
+}
+
+button{
+    margin-top: 8px;
+    width: 35vw;
+    height: 37px;
+    border-radius: 30px;
+    background-color: #72DB73;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.P1_checkBox{
+    display: flex;
+    align-items: center; 
+    margin-left: 5px;
+}
+.P1_check{
+    /* transform: scale(0.5); */
+    margin-left: 0px;
+}
+
+.P1_heading{
+    margin-left: 150px;
+    font-family: cursive;
+    font-size: 25px;
+    color: #72DB73;
+}
+
+.P1_subHead{
+    margin-left: 120px;
+}
+
+.P1_ip{
+    background-color: #292929;
+    width: 34vw;
+    height: 30px;
+    margin: 5px;
+    color: #7C7C7C;
+}
+
+.P1_req{
+    margin-left: 5px;
+    color: red;
+}
+
+.P1_reqN{
+    display: none;
+}
+
+.P1_ipE{
+    border-color: red;
+}
+
+.privacyPolicy{
+    cursor: pointer;
+}

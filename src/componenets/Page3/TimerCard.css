@@ -1,0 +1,106 @@
+
+
+.timerCard{
+    margin-top: 15px;
+    width: 60vw;
+    height: 30vh;
+    margin-left: 20px;
+    background-color: #1E2343;
+    display: flex;
+}
+
+.timer{
+    width: 30vw;
+    height: 28vh;
+}
+
+.time{
+    display: flex;
+}
+
+.hours{
+    width: 8vw;
+    height: 10vh;
+}
+
+.minutes{
+    margin-left: 20px;
+    width: 8vw;
+    height: 10vh;
+}
+
+.seconds{
+    margin-left: 20px;
+    width: 8vw;
+    height: 10vh;
+}
+
+.btn1{
+    margin-top: -20px;
+    width: 50px;
+    height: 50px;
+    background-image: url('./up.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.btn2{
+    width: 50px;
+    height: 50px;
+    background-image: url('./down.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.val{
+    margin-top: -18px;
+    margin-bottom: -18px;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+.startBtn{
+    margin-top: -2px;
+    width: 25vw;
+    height: 4vh;
+    background-color: #FF6A6A;
+}
+
+.col{
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.timerBox1{
+    margin-top: 10px;
+    font-size: 30px;
+    z-index: 10;
+}
+
+.cir1{
+    position: relative;
+    margin-left: 35px;
+    margin-top: 10px;
+    width: 16vw;
+    height: 26vh;
+    /* background: conic-gradient(yellow,white); */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cir1::before{
+    position: absolute;
+    content: '';
+    width: 14vw;
+    height: 23vh;
+    border-radius: 50%;
+    background-color: #0f1022;
+}

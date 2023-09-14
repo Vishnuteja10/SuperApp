@@ -1,0 +1,55 @@
+
+.p3_weatherCard{
+    width: 40vw;
+    height: 20vh;
+    background-color: #101744;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.p3_DT{
+    width: 40vw;
+    height: 5vh;
+    background-color: #FF4ADE;
+}
+
+.lt{
+    margin-left: 120px;
+}
+
+.p3_WD{
+    display: flex;
+}
+
+.w{
+   width: 12vw;
+}
+
+.tp{
+    width: 12vw;
+    margin-left: 10px;
+}
+
+.wh{
+    width: 12vw;
+    margin-left: 10px;
+}
+
+.temp{
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.pressure{
+    margin-top: -20px;
+    font-size: 12px;
+}
+
+.wind{
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+.humidity{
+    font-size: 15px;
+}

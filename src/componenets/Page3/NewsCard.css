@@ -1,0 +1,54 @@
+
+.newsCard{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 25vw;
+    height: 85vh;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.imgContainer{
+    width: 25vw;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;    
+    position: relative;
+    display: inline-block;
+}
+
+.newsImg{
+    width: 25vw;
+    height: 45vh;
+   
+    /* background-image: url('../page1.png'); */
+   
+}
+
+.title{
+   /* transform: translateY(10px); */
+   position: absolute;
+   margin-top: 26vh;
+   margin-left: 5px;
+   color: white;
+   background-color: rgba(0, 0, 0, 0.5);
+  
+   
+}
+
+.published{
+    /* transform: translateY(10px); */
+    position: absolute;
+    margin-top: 35vh;
+    padding: 8px;
+    margin-left: 5px;
+    font-size: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+  
+    
+}
+
+.newsText{
+    padding: 10px;
+}

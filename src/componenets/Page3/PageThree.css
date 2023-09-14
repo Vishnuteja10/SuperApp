@@ -1,0 +1,25 @@
+
+.page3{
+    background-color: black;
+}
+
+.box1{
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.mainBox{
+    display: flex;
+}
+
+.box3{
+    margin-top: -160px;
+}
+
+.p3_browse{
+    margin-left: 85vw;
+    margin-top: -100px;
+    width: 8vw;
+    height: 4vh;
+}

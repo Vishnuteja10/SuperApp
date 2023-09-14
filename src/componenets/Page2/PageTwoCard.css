@@ -1,0 +1,29 @@
+
+
+.main2{
+    width: 160px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+   
+}
+
+.cardName{
+    transform: translateY(-15px);
+    margin-left: 12px;
+    color: white;
+    font-size: 20px;
+}
+
+.main2Border{
+    border: 5px solid #11B800;
+}
+
+ .cardImages{
+    margin-left: 8px;
+    width: 130px;
+    height: 70px;
+    /* background-image: url('./image2.png'); */
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+} 

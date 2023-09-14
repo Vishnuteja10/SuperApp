@@ -1,0 +1,25 @@
+
+.notesCard{
+    width: 30vw ;
+    height: 62vh;
+    background-color: #F1C75B;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+h3{
+    transform: translateY(20px);
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.ip{
+    border: none;
+    border-color: none;
+    border-style: none;
+    background-color: #F1C75B;
+    width: 25vw;
+    height: 50vh;
+    margin-left: 20px;
+    overflow: auto;
+}
